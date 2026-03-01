@@ -7,7 +7,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("VERSION 5 - Main");
+		System.out.println("VERSION 5 - FEATURE");
 		greet();
 	}
 }
